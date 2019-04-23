@@ -18,6 +18,7 @@ class App extends React.Component {
     return (
       <>
         <Header category="A VISUAL GUIDE"/>
+      //Будь ласка винеси меню в орему компоненту
         <div>
           <div className="app">
             <Link to="/people">
